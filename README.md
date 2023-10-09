@@ -1,0 +1,2 @@
+# youtube_downloading
+The Snarf utility is a python utility that takes a channel name as a parameter and gets the last 10 videos and meta data from a channel and then POSTs them to the Anwansi Admin Service URL.  The utility can get just the best quality video and need not get every available “quality” video. The meta data includes the thumbnails and descriptions sufficient to complete the POST to the admin service URL. The utility must get the last 10 videos from a specified channel.
